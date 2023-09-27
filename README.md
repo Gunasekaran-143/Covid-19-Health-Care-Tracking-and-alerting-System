@@ -27,9 +27,10 @@ Users can take a symptom-based quiz to assess their health status, receiving ins
 
 # Privacy and Concerns:
 The app is committed to user privacy and data protection, addressing concerns from users, data protection agencies, and researchers.
+<br>
 <img width="513" alt="image" src="https://github.com/Gunasekaran-143/Covid-19-Health-Care-Tracking-and-alerting-System/assets/134137559/878679d9-d0bf-49d3-9822-a9d07e710988">
 
-
+<br>
 <img width="476" alt="image" src="https://github.com/Gunasekaran-143/Covid-19-Health-Care-Tracking-and-alerting-System/assets/134137559/35b4b396-a66f-4b32-bb71-d12b4fc5b474">
 
 # Contributions:
