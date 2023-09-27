@@ -6,7 +6,7 @@ This Android application is designed to address the challenges posed by the COVI
 <img width="567" alt="image" src="https://github.com/Gunasekaran-143/Covid-19-Health-Care-Tracking-and-alerting-System/assets/134137559/0be6ba14-733c-4288-8fef-55ec3d9c828c">
 
 # Automated Tracking: 
-The app automatically generates real-time statistics on the number of people affected, recovered, and deceased due to COVID-19, enhancing the tracking capabilities of health authorities.
+The app automatically generates real-time statistics on the number of people affected, recovered, and deceased due to COVID-19, enhancing the tracking capabilities of health authorities. <br>
 <img width="493" alt="image" src="https://github.com/Gunasekaran-143/Covid-19-Health-Care-Tracking-and-alerting-System/assets/134137559/a86a6d1a-61eb-407a-a05a-962e94279577">
 
 # Helpline Numbers:
